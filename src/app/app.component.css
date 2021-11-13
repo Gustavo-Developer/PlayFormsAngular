@@ -1,0 +1,11 @@
+.content {
+  background-image: linear-gradient(rgb(38, 38, 194), rgb(39, 187, 39));
+}
+
+.wrapper {
+  margin: 0 20%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
